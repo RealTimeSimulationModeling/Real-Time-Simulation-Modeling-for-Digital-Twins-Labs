@@ -397,10 +397,8 @@ We welcome contributions! Please see our contributing guidelines:
 
 ## Contact
 
-- **Course Website**: [University course page]
-- **Issues**: GitHub Issues for bugs and questions
-- **Email**: [Contact email]
-
+Bulent Soykan [bulentsoykan.com](https://bulentsoykan.com)
+Email: soykanb@gmail.com
 ---
 
 ## Quick Links
