@@ -4,7 +4,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![SimPy](https://img.shields.io/badge/SimPy-4.0+-green.svg)](https://simpy.readthedocs.io/)
 
-Bulent Soykan [https://bulentsoykan.com]
+Bulent Soykan [bulentsoykan.com](https://bulentsoykan.com)
 
 **A comprehensive, hands-on laboratory curriculum for building Digital Twin systems**
 
