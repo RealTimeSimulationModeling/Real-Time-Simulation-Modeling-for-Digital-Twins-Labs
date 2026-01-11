@@ -67,7 +67,7 @@ Build predictive and prescriptive capabilities.
 | **10** | Predictive Scenarios | What-If Analysis | State forking, FTRT clones, KPI comparison |
 | **11** | Simulation Optimization | Prescriptive Analytics | Differential evolution, stochastic objectives |
 
-### Phase 4: Synthesis (Lab 12, Session 13)
+### Phase 4: Synthesis (Lab 12)
 
 Design production systems and reflect on responsibility.
 
