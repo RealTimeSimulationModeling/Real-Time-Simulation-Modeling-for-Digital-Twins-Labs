@@ -1,0 +1,11 @@
+# Lab 10: Predictive 'What-If' Scenario Analysis - Requirements
+# ================================================================
+
+# Discrete Event Simulation with real-time capabilities
+simpy>=4.0.0
+
+# Note: This lab demonstrates:
+# - Real-time simulation (RealtimeEnvironment)
+# - State management for simulation forking
+# - Faster-than-real-time (FTRT) scenario evaluation
+# - Comparative KPI analysis for decision support

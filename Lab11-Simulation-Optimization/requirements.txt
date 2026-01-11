@@ -1,0 +1,17 @@
+# Lab 11: Simulation-Based Optimization - Requirements
+# =======================================================
+
+# Discrete Event Simulation
+simpy>=4.0.0
+
+# Optimization algorithms
+scipy>=1.7.0
+
+# Numerical computing
+numpy>=1.21.0
+
+# Note: This lab demonstrates:
+# - Using simulation as objective function for optimization
+# - Differential evolution (genetic algorithm-style optimizer)
+# - Handling stochastic objectives with multiple replications
+# - Prescriptive analytics for operational decision-making

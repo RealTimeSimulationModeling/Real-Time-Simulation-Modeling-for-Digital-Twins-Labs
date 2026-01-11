@@ -1,0 +1,16 @@
+# Lab 8: Hybrid Factory Model - Requirements
+# ============================================
+
+# Discrete Event Simulation
+simpy>=4.0.0
+
+# Numerical computing
+numpy>=1.21.0
+
+# Visualization
+matplotlib>=3.5.0
+
+# Note: This lab integrates three modeling paradigms:
+# - DES (SimPy): Process flow modeling
+# - ABM (Custom): Autonomous agent behavior with state-based logic
+# - SD (Custom): Continuous system dynamics with Euler integration

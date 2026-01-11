@@ -1,0 +1,13 @@
+# Lab 1: Building Your First Simulation in Python
+# Requirements
+
+# No external dependencies required!
+# This lab uses only Python standard library:
+# - random (for random number generation)
+# - math (for logarithm function)
+
+# Python version: 3.6 or higher
+
+# Optional (for extension challenges only):
+# matplotlib>=3.5.0  # For visualization (histogram of wait times, etc.)
+# numpy>=1.21.0      # For advanced random number generation

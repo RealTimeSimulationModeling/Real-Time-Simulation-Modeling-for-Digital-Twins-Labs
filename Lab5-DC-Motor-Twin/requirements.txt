@@ -1,0 +1,12 @@
+# Lab 5: Twinning a DC Motor - Requirements
+# ==========================================
+
+# Core scientific computing
+numpy>=1.21.0
+scipy>=1.7.0
+
+# Visualization
+matplotlib>=3.5.0
+
+# Note: This lab uses physics-based ODE modeling with scipy's solve_ivp
+# No specialized motor simulation libraries needed - built from first principles!

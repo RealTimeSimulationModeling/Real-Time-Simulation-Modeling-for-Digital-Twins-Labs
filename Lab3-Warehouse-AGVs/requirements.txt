@@ -1,0 +1,10 @@
+# Lab 3: Twinning a Warehouse with AGVs - Requirements
+# ======================================================
+
+# Primary ABM Framework
+mesa>=2.1.0
+
+# Note: Standard library modules used (no installation needed):
+# - random: For stochastic task generation
+# - typing: For type hints
+# - queue: For A* pathfinding priority queue

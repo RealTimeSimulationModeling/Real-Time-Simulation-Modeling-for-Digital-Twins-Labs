@@ -1,0 +1,15 @@
+# Lab 6: Building the Data Link with MQTT - Requirements
+# =======================================================
+
+# MQTT Client Library
+# Provides Python interface to MQTT protocol
+# Used for both publishing and subscribing
+paho-mqtt>=1.6.1
+
+# Note: This lab also requires a running MQTT broker (Mosquitto)
+# Install Mosquitto:
+#   Ubuntu/Debian: sudo apt-get install mosquitto mosquitto-clients
+#   macOS: brew install mosquitto
+#   Windows: Download from https://mosquitto.org/download/
+#
+# Start broker: mosquitto -v

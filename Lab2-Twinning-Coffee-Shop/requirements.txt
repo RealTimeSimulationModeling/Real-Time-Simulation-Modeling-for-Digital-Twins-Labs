@@ -1,0 +1,11 @@
+# Lab 2: Twinning a Coffee Shop - Requirements
+# =============================================
+
+# Core DES Library
+simpy>=4.0.0
+
+# Note: Standard library modules used (no installation needed):
+# - random: For stochastic distributions
+# - threading: For control panel thread
+# - time: For real-time synchronization
+# - statistics: For calculating mean wait times

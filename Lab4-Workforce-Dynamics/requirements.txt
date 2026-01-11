@@ -1,0 +1,12 @@
+# Lab 4: Modeling Workforce Dynamics - Requirements
+# ==================================================
+
+# Visualization
+matplotlib>=3.5.0
+
+# Numerical operations (matplotlib dependency, explicitly listed)
+numpy>=1.21.0
+
+# Note: This lab deliberately does NOT use specialized SD libraries
+# (like PySD or simpy) to demonstrate the mechanics from first principles.
+# The model is built using pure Python with a simple for-loop.

@@ -1,0 +1,26 @@
+# Real-Time Simulation Modeling for Digital Twins
+# Core Dependencies
+
+# Discrete Event Simulation
+simpy>=4.0.1
+
+# Numerical Computing
+numpy>=1.21.0
+scipy>=1.7.0
+
+# Visualization
+matplotlib>=3.5.0
+
+# MQTT Communication (Labs 6-7)
+paho-mqtt>=1.6.0
+
+# Optional: Data Analysis
+# pandas>=1.3.0
+
+# Optional: Advanced Visualization
+# seaborn>=0.11.0
+# plotly>=5.0.0
+
+# Development Tools (optional)
+# jupyter>=1.0.0
+# pytest>=6.0.0
